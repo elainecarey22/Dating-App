@@ -1,0 +1,16 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# System Files
+.DS_Store
+
+# Visual Studio Code
+.vscode/*
+
+# misc
+/coverage
+DatingAppProj\DatingApp.API\obj\Debug\netcoreapp3.0\project.razor.json
+DatingAppProj\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csprojAssemblyReference.cache
+DatingAppProj\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.assets.cache
+bin
+obj
+*.db
