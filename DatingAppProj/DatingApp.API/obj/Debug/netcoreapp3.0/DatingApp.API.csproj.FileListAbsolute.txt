@@ -84,3 +84,8 @@ C:\Users\ecarey\Documents\GitHub\DatingAppProj\Dating-App\DatingAppProj\DatingAp
 C:\Users\ecarey\Documents\GitHub\DatingAppProj\Dating-App\DatingAppProj\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csproj.CopyComplete
 C:\Users\ecarey\Documents\GitHub\DatingAppProj\Dating-App\DatingAppProj\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.dll
 C:\Users\ecarey\Documents\GitHub\DatingAppProj\Dating-App\DatingAppProj\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.pdb
+C:\Users\ecarey\Documents\GitHub\DatingAppProj\Dating-App\DatingAppProj\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ecarey\Documents\GitHub\DatingAppProj\Dating-App\DatingAppProj\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ecarey\Documents\GitHub\DatingAppProj\Dating-App\DatingAppProj\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\ecarey\Documents\GitHub\DatingAppProj\Dating-App\DatingAppProj\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ecarey\Documents\GitHub\DatingAppProj\Dating-App\DatingAppProj\DatingApp.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll

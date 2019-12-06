@@ -1,6 +1,9 @@
-<<<<<<< HEAD
-.vscode/launch.json
-.vscode/tasks.json
-=======
 .vscode
->>>>>>> 5b663587d3652141b4c388291dc1dcc8d2f7c8b0
+coverage
+
+DatingAppProj/DatingApp.API/obj/*
+DatingAppProj/DatingApp.API/bin/*
+*.db
+
+# System Files
+.DS_Store
