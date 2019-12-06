@@ -1,1 +1,9 @@
 .vscode
+coverage
+
+DatingAppProj/DatingApp.API/obj/*
+DatingAppProj/DatingApp.API/bin/*
+*.db
+
+# System Files
+.DS_Store

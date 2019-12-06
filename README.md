@@ -6,18 +6,13 @@
 * Created a Web API project in Visual Studio Code 
 * Created database using code first migrations
 * Set up source control 
-* Created an Angular application
-* Made HTTP requests from Angular to fetch data from our API 
-* Binded data from the API to display it on our page 
-* Add support for Bootstrap and Font-Awesome 
-
 
 ## Future Objectives
 
-* Add security features
-* Add client side login and register features
-* Add error handling
-* Add routing in Angular
+* Create the Angular application
+* Make HTTP requests from Angular to fetch data from our API
+* Bind data from the API to the HTML to display it on the page
+* Add support for Bootstrap and Font Awesome
 
 ## Authors
 
